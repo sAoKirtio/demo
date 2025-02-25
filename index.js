@@ -6,3 +6,7 @@ const d = 123;
 function t() {
     console.log(123);
 }
+
+function test() {
+    console.log("test");
+}
